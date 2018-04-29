@@ -2,7 +2,7 @@
 
 W. https://github.com/ddregalo  |  E. ddregalo@gmail.com  |  M. +44 (0)7958579527  |  London, UK
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/daniel-campos-982a80ab/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
