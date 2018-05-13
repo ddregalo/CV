@@ -4,7 +4,9 @@ W. https://github.com/ddregalo  |  E. ddregalo@gmail.com  |  M. +44 (0)795857952
 
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-campos-982a80ab/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="Daniel Campos LinkedIn" hspace="50" height="42" width="42"></a>
+<a href="https://github.com/ddregalo">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/2857/logo-github-128.png" alt="Daniel Campos GitHub" hspace="50" height="42" width="42"></a>
 </p>
 
 An intuitively creative junior full stack developer motivated by problem solving. I learned to code full stack applications in Ruby and Javascript in 12 weeks at Makers Academy, an intensive coding bootcamp in London, UK.
