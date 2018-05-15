@@ -7,6 +7,8 @@ E. ddregalo@gmail.com  |  M. +44 (0)7958579527  |  London, UK
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="Daniel Campos LinkedIn" hspace="50" height="42" width="42"></a>
 <a href="https://github.com/ddregalo">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="Daniel Campos GitHub" hspace="50" height="40" width="40"></a>
+<a href="https://medium.com/@ddcampos">
+<img src="https://cdn0.iconfinder.com/data/icons/social-23/100/social_medium-512.png" alt="Daniel Campos Medium Blog" hspace="50" height="40" width="40"></a>
 </p>
 
 An intuitively creative full stack developer motivated by learning and problem solving. I learned to code Ruby, JavaScript and Python full stack applications in 12 weeks at Makers Academy, an intensive coding bootcamp in London, UK.
