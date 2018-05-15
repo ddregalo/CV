@@ -2,7 +2,7 @@
 
 E. ddregalo@gmail.com  |  M. +44 (0)7958579527  |  London, UK
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/daniel-campos-982a80ab/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="Daniel Campos LinkedIn" hspace="50" height="42" width="42"></a>
 <a href="https://github.com/ddregalo">
@@ -14,7 +14,7 @@ An intuitively creative full stack developer motivated by learning and problem s
 
 ## Projects
 
-During my time at Makers I worked in an agile development environment with many different developers through paired-programming, mobbing and project based group-work. I am a true believer in XP values and test driven development(TDD). Here is a selection of individual and group projects I've created and contributed to recently:
+During my time at Makers Academy I worked in an agile development environment with different developers through paired-programming, mobbing and project based group-work. Working with others during the course I practised XP values and learned the importance of test driven development (TDD) especially as we built up programs with more features. Here is a selection of individual and group projects I've created and contributed to recently:
 
 | Project |Description| Technologies | Testing & Quality Metrics |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------|
@@ -86,6 +86,11 @@ I taught english across all ages (children to adults) at a private school in Cho
 *Owner*
 Exterior roofing and siding contractor. I managed all operations, accounting,
 and taxes for my sole proprietorship.
+
+## Blog
+
+I enjoy writing blogs and have written some pieces about my experience at Makers as well as some technical blogs detailing a new skill or package I've learned to use. Check out my <a href="https://medium.com/@ddcampos">Medium Blog<a/> :)
+
 
 
 ## Interests
