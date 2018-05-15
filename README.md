@@ -96,4 +96,5 @@ I enjoy writing blogs and have written some pieces about my experience at Makers
 ## Interests
 
 **Fine Art:** I am an abstract painter and have displayed works at various exhibitions and events in London and abroad.
+
 **Sport:** I love adrenaline and my favourite sports are surfing, skiing and skateboarding.
